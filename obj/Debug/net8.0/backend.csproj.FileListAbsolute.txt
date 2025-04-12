@@ -102,3 +102,4 @@
 /home/flybaruk/Guilherme/C/mobileProjets/backend/obj/Debug/net8.0/backend.pdb
 /home/flybaruk/Guilherme/C/mobileProjets/backend/obj/Debug/net8.0/backend.genruntimeconfig.cache
 /home/flybaruk/Guilherme/C/mobileProjets/backend/obj/Debug/net8.0/ref/backend.dll
+/home/flybaruk/Guilherme/C/mobileProjets/backend/obj/Debug/net8.0/backend.sourcelink.json
